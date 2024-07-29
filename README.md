@@ -50,7 +50,7 @@ npm run dev
 # or
 yarn dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) (it may change) to view it in the browser.
 
 ## Usage
 - **Save Password:** Enter the site URL, username, and password, then click 'Save'.
@@ -70,8 +70,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![Screenshot1](public/Screenshot/Screenshot2.png)
 ![Screenshot1](public/Screenshot/Screenshot3.png)
 
-## License
-This project is licensed under the MIT License.
+<!-- ## License
+This project is licensed under the MIT License. -->
 
 ## Author
 - **Sajal Kumar Ujjwal** - [GitHub](https://github.com/isajalsingh)
